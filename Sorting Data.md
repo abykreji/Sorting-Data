@@ -2,7 +2,7 @@
 
 
 #### Question: 
-#####Sort employees by first name ascending and last name descending
+##### Sort employees by first name ascending and last name descending
 
 ```python
 SELECT * FROM employees
